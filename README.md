@@ -6,12 +6,13 @@
 
 ## Disclaimer
 
-**The browser reimagined.**
+Please read carefully the manual before using any commands on Raspberry PI & Linux..
 
-Three times  faster than Chrome. Better  privacy by default than  Firefox. Uses
-35% less battery on mobile.
+https://www.raspberrypi.com/documentation/
 
-[brave.com](https://brave.com/)
+```bash
+man man
+```
 
 ## POE
 
