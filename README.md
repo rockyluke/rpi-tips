@@ -20,10 +20,7 @@ man man
 
 Edit `/boot/config.txt` & reboot
 
-40000 means 40°C
-50000 means 50°C
-65000 means 65°C
-etc.
+`40000` means 40°C, `50000` means 50°C, `65000` means 65°C, etc.
 
 ```
 # POE Fan Speeds
