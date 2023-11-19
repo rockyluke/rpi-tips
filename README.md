@@ -6,7 +6,7 @@
 
 ## Disclaimer
 
-Please read carefully the manual before using any commands on Raspberry PI & Linux..
+Please read carefully the manual before using any commands on Raspberry Pi & Linux.
 
 https://www.raspberrypi.com/documentation/
 
